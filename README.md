@@ -22,7 +22,7 @@ If you're using Ubuntu and the NVIDIA CUDA Toolkit isn't already installed, you 
    sudo apt update
    ```
 
-2. **Install NVIDIA Driver and CUDA Toolkit**:
+2. **Install NVIDIA CUDA Toolkit**:
 
    Install the NVIDIA CUDA Toolkit using the following command:
 
